@@ -1,0 +1,12 @@
+{
+    "users": [
+        { "user_id": 1, "user_name": "Uroljon" }
+    ],
+    "messages": [
+        {
+            "user_name": "Uroljon",
+            "message_id": 2,
+            "message": "Chatga marhamat :)"
+        }
+    ]
+}
